@@ -14,4 +14,8 @@ public class App
     public static int subtraction(int a, int b) {
     	return a - b;
     }
+    
+    public static int danielLindo(int rei, int delas) {
+    	return rei + delas;
+    }
 }
